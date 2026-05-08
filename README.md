@@ -1,5 +1,5 @@
 # Frontend Next (Static Clone)
-
+Live link: https://samuelabera.netlify.app/
 This folder is a static-ready clone of your fullstack frontend UI.
 
 Important:
